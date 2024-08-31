@@ -1,2 +1,2 @@
 # python-para-data-science
-Programação em Python para Data Science. Projetos da Sala de Aula Senai. 
+Programação em Python para Data Science, projetos da sala de aula Senai
